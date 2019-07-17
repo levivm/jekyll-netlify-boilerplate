@@ -1,20 +1,9 @@
 ---
-title: Django App Internationalization
 layout: post
-date: 2016-09-30 04:38:13
-image: 'http://practicalcoding.in/check/images/fulls/b3.png'
-description: Learn how you can set up your Django app in order to be available in several languages.
-tag:
-- Django
-- Python
-- Translation
-- Internationalization
-- i18n
-blog: true
-author: "Levi Velázquez"
-
+title: Django App Internationalization
+author: Levi Velázquez
+date: 2016-09-30T04:38:13.000Z
 ---
-
 
 # Internationalization
 
