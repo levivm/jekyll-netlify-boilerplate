@@ -94,3 +94,16 @@ ol,
 dl {
 	list-style: none;
 }
+
+blockquote {
+
+    border-left: 5px solid #7a7a7a;
+    font-style: italic;
+    margin-left: 1rem;
+    padding: 1rem;
+    margin-top: 2rem;
+
+    p {
+        padding: 0.5rem; 
+    }
+}
