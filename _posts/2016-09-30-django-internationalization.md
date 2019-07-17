@@ -1,20 +1,9 @@
 ---
-title: Django App Internationalization
 layout: post
-date: 2016-09-30 04:38:13
-image: 'http://practicalcoding.in/check/images/fulls/b3.png'
-description: Learn how you can set up your Django app in order to be available in several languages.
-tag:
-- Django
-- Python
-- Translation
-- Internationalization
-- i18n
-blog: true
-author: "Levi Velázquez"
-
+title: Django App Internationalization
+author: john_doe
+date: 2016-09-30T04:38:13.000Z
 ---
-
 
 # Internationalization
 
@@ -290,13 +279,15 @@ As well as we mark strings for translation in our views, we can do it in our Dja
       <!-- Carousel items -->
       <div class="carousel-inner">
         <div class="item active">
-            <img class="profile-circle img-responsive" src="https://s-media-cache-ak0.pinimg.com/564x/12/f6/d1/12f6d18125126757df29e733051697b8.jpg" alt="">
+            <img class="profile-circle img-responsive" 
+src="https://s-media-cache-ak0.pinimg.com/564x/12/f6/d1/12f6d18125126757df29e733051697b8.jpg" alt="">
             <blockquote>
                 <p>{{cat_quote_one}}</p>
             </blockquote>   
         </div>
         <div class="item">
-            <img class="profile-circle img-responsive" src="https://66.media.tumblr.com/avatar_ad6c1cb12b85_128.png" alt="">
+            <img class="profile-circle img-responsive" 
+src="https://66.media.tumblr.com/avatar_ad6c1cb12b85_128.png" alt="">
             <blockquote>
                 <p>{{cat_quote_two}}</p>
             </blockquote>
