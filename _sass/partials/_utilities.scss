@@ -90,3 +90,7 @@ button {
 	@include button($link-color, $text-color-negative);
 }
 
+ol,
+dl {
+	list-style: none;
+}
