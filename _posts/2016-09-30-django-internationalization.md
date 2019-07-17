@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Django App Internationalization
-author: Levi Velázquez
+author: john_doe
 date: 2016-09-30T04:38:13.000Z
 ---
 
