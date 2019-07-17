@@ -7,7 +7,6 @@ date: '2019-07-16 23:21:30'
 
 My purpose IS NOT to say what is the best way to write code, some programmers have their ways and they are just fine. I just want to share with others what I consider code best practices and how to improve several aspects as readiness, structure, components, meaning, debugging, refactoring, etc.
 
-
 # Chapter 1: Functions
 
 ## Do One Thing.
@@ -59,14 +58,14 @@ def create_user(email, password):
             )
             server.quit()
             return user
-```
+```  
 
 __What this function does ?__
 
-- If the user doesn't exist, it creates a new user.
-- It creates an HTML Template.
-- It initializes a SMTP connector.
-- It sends an email.
+* If the user doesn't exist, it creates a new user.
+* It creates an HTML Template.
+* It initializes a SMTP connector.
+* It sends an email.
 
 __Why it is wrong ?__
 1. Is doing more than One Thing.
