@@ -41,12 +41,6 @@ a {
 	outline: none;
 }
 
-ul,
-ol,
-dl {
-	list-style: none;
-}
-
 em {
 	font-style: italic;
 }
@@ -96,8 +90,3 @@ button {
 	@include button($link-color, $text-color-negative);
 }
 
-ul,
-ol,
-dl {
-	list-style: none;
-}
