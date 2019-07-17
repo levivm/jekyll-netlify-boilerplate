@@ -90,11 +90,6 @@ button {
 	@include button($link-color, $text-color-negative);
 }
 
-p {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-
 ol,
 dl {
 	list-style: none;
