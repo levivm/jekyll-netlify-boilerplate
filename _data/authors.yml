@@ -9,3 +9,7 @@ john_doe:
     name: John Doe
     email: johndoe@email.com
     web: http://twitter.com/johndoe
+levi_velazquez:
+    name: Levi Velázquez
+    email: levinoelvm@gmail.com
+    web: http://twitter.com/levisvm
