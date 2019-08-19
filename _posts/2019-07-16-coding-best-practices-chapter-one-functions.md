@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coding Best Practices, Chapter One: Functions'
-author: john_doe
+author: levi_velazquez
 date: '2019-07-16 23:21:30'
 ---
 
