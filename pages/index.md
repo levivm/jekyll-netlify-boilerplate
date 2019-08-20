@@ -4,7 +4,7 @@ title: 'Welcome '
 permalink: /
 section: home
 intro_paragraph: >-
-  [![alt text][1.1]][1][![alt text][1.2]][2]\
+  [![alt text][1.1]][1][![alt text][1.2]][2]<br/>
 
 
   [1.1]: http://i.imgur.com/tXSoThF.png
