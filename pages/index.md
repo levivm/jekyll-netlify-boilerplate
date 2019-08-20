@@ -19,12 +19,12 @@ intro_paragraph: >-
 
   I'm Computer Engineer, Fintech Enthusiast, Engineering Director at 
 
-  [@MoTecnologias](https://motecnologias.com/).\
+  [@MoTecnologias](https://motecnologias.com/).  
 
-  Co-Founder of [FullStapps](https://fullstapps.dev)\
+  Co-Founder of [FullStapps](https://fullstapps.dev)  
 
   Community Moderator at
-  [@ThePracticalDev](https://twitter.com/ThePracticalDev)\
+  [@ThePracticalDev](https://twitter.com/ThePracticalDev)  
 
   Code Mentor at 
 
@@ -32,4 +32,3 @@ intro_paragraph: >-
 ---
 _The best way to learn is teaching_ 
 
-<a href="https://stackoverflow.com/"><i class="fa fa-stack-overflow"> </i></a>
