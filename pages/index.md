@@ -4,7 +4,7 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >-
-  [![alt text][1.1]][1] Hola
+  [![alt text][1.1]][1] 
 
 
   [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -13,7 +13,7 @@ intro_paragraph: >-
   [1]: http://www.twitter.com/carlsednaoui
 
 
-  [![alt text][1.2]][2] Hola
+  [![alt text][1.2]][2] 
 
 
   [1.2]: /assets/img/uploads/stackoverflow-logo.png (twitter icon with padding)
