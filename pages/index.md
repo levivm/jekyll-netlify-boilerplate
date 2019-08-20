@@ -4,7 +4,7 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >-
-  [![alt text][1.1]][1][![alt text][1.2]][2]  
+  [![alt text][1.1]][1][![alt text][1.2]][2] . 
 
 
 
@@ -17,8 +17,8 @@ intro_paragraph: >-
   [2]: http://www.twitter.com/carlsednaoui
 
 
-    I'm Levi, 
-  Computer Engineer, Fintech Enthusiast, Engineering Director at 
+
+  I'm Computer Engineer, Fintech Enthusiast, Engineering Director at 
 
   [@MoTecnologias](https://motecnologias.com/).\
 
