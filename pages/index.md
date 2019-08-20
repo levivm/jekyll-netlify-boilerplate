@@ -7,7 +7,7 @@ intro_paragraph: >-
   [![alt text][1.1]][1][![alt text][1.2]][2]
 
 
-  [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+  [1.1]: http://i.imgur.com/tXSoThF.png
 
   [1]: http://www.twitter.com/carlsednaoui
 
