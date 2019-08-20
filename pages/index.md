@@ -13,6 +13,15 @@ intro_paragraph: >-
   [1]: http://www.twitter.com/carlsednaoui
 
 
+  [![alt text][1.2]][2] Hola
+
+
+  [1.2]: /assets/img/uploads/stackoverflow-logo.png (twitter icon with padding)
+
+
+  [2]: http://www.twitter.com/carlsednaoui
+
+
   I'm Levi, 
 
   Computer Engineer, Fintech Enthusiast, Engineering Director at 
