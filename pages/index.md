@@ -21,8 +21,7 @@ intro_paragraph: >-
 
   [@MoTecnologias](https://motecnologias.com/).Co-Founder of
   [FullStapps](https://fullstapps.dev),Community Moderator at
-  [@ThePracticalDev](https://twitter.com/ThePracticalDev), Code Mentor at 
-
-  [@codingcoach_io.](https://twitter.com/codingcoach_io)
+  [@ThePracticalDev](https://twitter.com/ThePracticalDev), Code Mentor at
+  @codingcoach_io.](https://twitter.com/codingcoach_io)
 ---
 
