@@ -12,9 +12,6 @@ intro_paragraph: >-
 
   [1]: http://www.twitter.com/carlsednaoui
 
-  <img href="http://www.twitter.com/carlsednaoui"
-  src="http://i.imgur.com/tXSoThF.png" width="30" height="30" />
-
 
   I'm Levi, 
 
