@@ -13,8 +13,6 @@ intro_paragraph: >-
   [1]: http://www.twitter.com/carlsednaoui
 
 
-
-
   [1.2]: /assets/img/uploads/stackoverflow-logo.png (twitter icon with padding)
 
 
