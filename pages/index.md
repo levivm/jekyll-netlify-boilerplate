@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Levi
+title: 'Hi,'
 permalink: /
 section: home
 intro_paragraph: >-
