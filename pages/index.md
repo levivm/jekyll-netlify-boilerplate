@@ -4,7 +4,7 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >-
-  [![alt text][1.1]][1]
+  [![alt text][1.1]][1] Hola
 
 
   [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
