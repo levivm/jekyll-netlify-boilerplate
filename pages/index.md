@@ -7,6 +7,7 @@ intro_paragraph: >-
   [![alt text][1.1]][1][![alt text][1.2]][2]  
 
 
+
   [1.1]: http://i.imgur.com/tXSoThF.png
 
   [1]: http://www.twitter.com/carlsednaoui
@@ -14,6 +15,7 @@ intro_paragraph: >-
   [1.2]: /assets/img/uploads/stackoverflow-logo.png
 
   [2]: http://www.twitter.com/carlsednaoui
+
 
 
   I'm Levi, 
