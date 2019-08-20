@@ -19,4 +19,5 @@ intro_paragraph: >
 
   [@codingcoach_io.](https://twitter.com/codingcoach_io)
 ---
-_The best way to learn is teaching_
+_The best way to learn is teaching_\
+<i class="fa fa-stack-overflow"></i>
