@@ -4,10 +4,14 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >-
-  <a href="https://stackoverflow.com/"><i class="fa fa-stack-overflow">
-  </i></a>\
+  [![alt text]\[1.1]]\[1]
 
-  \
+
+  [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+
+  [1]: http://www.twitter.com/carlsednaoui
+
 
   I'm Levi, 
 
@@ -24,4 +28,6 @@ intro_paragraph: >-
 
   [@codingcoach_io.](https://twitter.com/codingcoach_io)
 ---
-_The best way to learn is teaching_
+_The best way to learn is teaching_ 
+
+<a href="https://stackoverflow.com/"><i class="fa fa-stack-overflow"> </i></a>
