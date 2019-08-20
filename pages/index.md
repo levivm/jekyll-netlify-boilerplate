@@ -17,9 +17,7 @@ intro_paragraph: >-
   [2]: http://www.twitter.com/carlsednaoui
 
 
-
-  I'm Levi, 
-
+    I'm Levi, 
   Computer Engineer, Fintech Enthusiast, Engineering Director at 
 
   [@MoTecnologias](https://motecnologias.com/).\
