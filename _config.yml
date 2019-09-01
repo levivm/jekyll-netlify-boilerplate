@@ -32,7 +32,8 @@ section: true
 netlifycms: true
 
 # set to 'true' to enable Google Analytics tracking code in production builds
-analytics: false
+analytics: true
+analytics-google: 'UA-81856235-1'
 
 # Compress CSS
 sass:
@@ -62,6 +63,9 @@ kramdown:
   auto_ids: false
 
 highlighter: rouge
+
+disqus: levipy-com
+
 
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use

@@ -18,6 +18,11 @@ layout: default
 
 {{ content }}
 
+{% if site.disqus %}
+    {% include disqus.html %}
+{% endif %}
+
+
 <nav aria-label="Adjacent Posts">
   <ul>
     {% if page.previous.url %}
