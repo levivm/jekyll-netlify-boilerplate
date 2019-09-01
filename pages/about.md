@@ -3,16 +3,30 @@ layout: page
 title: About
 permalink: /about
 section: about
-intro_paragraph: |
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
+intro_paragraph: >-
+  My name is Levi,  I’m from Venezuela but currently living in Colombia.
+  Actually, I’m Engineering Director at MO (Fintech), leading all engineering
+  teams(Backend, Frontend, Data Engineering and Infrastructure). We do anonymous
+  credit scoring using ML, offer a platform for loan management and we’re
+  pre-paid card issuers/processors.
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Have more than 10 years of experience working across several stacks.  Currently, I design solutions using ton of AWS services in conjunction with Terraform. 
 
-### A heading
+Main stack for general development:  Django, Python, Angular, Ionic, Docker, Serverless, Dynamo, Postgres
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Main stack for ETLs and data management: AWS Sagemaker, S3, Athena, AWS Glue, Spark.  
 
-#### Another heading
+Now days, interested in the following topics: 
+* Credit Score
+* Serverless
+* ACH
+* ETLs
+* Instant Loans
+* Card Issuing 
+* E-Wallet with Contactless Payment using NFC
+* KYC
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In my time to spare, I love to teach through free workshops.
+
+- Community Moderator at @ThePracticalDev: https://dev.to/levivm
+- Active StackOverflow member: https://stackoverflow.com/users/1539655/levi
