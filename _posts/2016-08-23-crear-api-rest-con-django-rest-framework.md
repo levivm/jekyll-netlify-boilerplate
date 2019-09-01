@@ -7,7 +7,9 @@ date: 2016-08-23T04:38:13.000Z
 
 # Django Rest Framework (DRF)
 
-DRF es una librería que nos permite construir un API REST sobre Django de forma sencilla. Ofreciendo una alta gama de métodos y funciones para el manejo, definición y control de nuestros recursos(endpoints). Si no sabes cuáles son los pátrones comunes a la hora de diseñar un API REST, puedes leerlo acá en mi [entrada](http://levipy.com/introduccion-al-diseno-de-una-api-rest/) anterior.
+DRF es una librería que nos permite construir un API REST sobre Django
+de forma sencilla. 
+Ofreciendo una alta gama de métodos y funciones para el manejo, definición y control de nuestros recursos(endpoints). Si no sabes cuáles son los pátrones comunes a la hora de diseñar un API REST, puedes leerlo acá en mi [entrada](http://levipy.com/introduccion-al-diseno-de-una-api-rest/) anterior.
 
 Comencemos nuestra instalación.
 
