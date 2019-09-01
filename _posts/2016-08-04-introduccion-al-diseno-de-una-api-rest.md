@@ -2,7 +2,7 @@
 title: "Introducción al diseño de una API REST"
 layout: post
 date: 2016-08-04 04:38:13
-intro_paragraph: ''
+intro_paragraph: 'Qué es y cómo diseñar un API REST siguiendo los principios básicos'
 image: 'https://openasset.com/website/_uploads/blog/rest-api.jpg'
 description: Qué es y cómo diseñar un API REST siguiendo los principios básicos establecidos.
 tag:
