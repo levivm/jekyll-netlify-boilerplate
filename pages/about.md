@@ -4,11 +4,11 @@ title: About
 permalink: /about
 section: about
 intro_paragraph: >-
-  My name is Levi,  I’m from Venezuela but currently living in Colombia.
-  Actually, I’m Engineering Director at MO (Fintech), leading all engineering
-  teams(Backend, Frontend, Data Engineering and Infrastructure). We do anonymous
-  credit scoring using ML, offer a platform for loan management and we’re
-  pre-paid card issuers/processors.
+  I’m from Venezuela but currently living in Colombia. Actually, I’m Engineering
+  Director at MO (Fintech), leading all engineering teams(Backend, Frontend,
+  Data Engineering and Infrastructure). We do anonymous credit scoring using ML,
+  offer a platform for loan management and we’re pre-paid card
+  issuers/processors.
 ---
 Have more than 10 years of experience working across several stacks.  Currently, I design solutions using ton of AWS services in conjunction with Terraform. 
 
