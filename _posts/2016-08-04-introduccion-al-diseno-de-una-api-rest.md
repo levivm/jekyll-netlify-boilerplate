@@ -9,13 +9,9 @@ tag:
 - api
 - rest
 - Patterns
-blog: true
-jemoji: ':doughnut:'
 author: "Levi Velázquez"
 
 ---
-
-## Qué es un API REST
 
 Primero, debemos saber el significado de API, por sus siglas en inglés _Application Programming Interface_. Básicamente, representan una colección de métodos y funciones implementadas en un sistema con el fin de que las mismas sean utilizadas por otros. 
 
