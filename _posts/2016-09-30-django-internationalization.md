@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Django App Internationalization
+<<<<<<< HEAD
 author: john_doe
 intro_paragraph: ''
+=======
+author: levi_velazquez
+>>>>>>> cc18d1510961165c014c1b0efe99dbd281513e58
 date: 2016-09-30T04:38:13.000Z
 ---
 
