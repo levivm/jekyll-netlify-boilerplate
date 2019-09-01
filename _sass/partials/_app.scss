@@ -97,7 +97,7 @@ main {
   margin-right: auto;
   margin-left: auto;
   grid-column: main;
-  display: grid;
+  // display: grid;
   padding-top: 8rem;
   padding-bottom: 8rem;
   @media screen and (min-width: $screen-md-min) {
@@ -109,7 +109,7 @@ main {
 // float, inline-block, table properties are already ignored by CSS Grid
 @supports (display: grid) {
   main {
-    width: auto;
+    width: 100%;
     max-width: none;
   }
 }
