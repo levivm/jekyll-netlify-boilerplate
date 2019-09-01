@@ -4,6 +4,7 @@ layout: post
 date: 2016-08-23 04:38:13
 image: 'https://www.dabapps.com/static/img/technologies/rest.png'
 description: Tutorial de como crear un API REST usando Django Rest Framework (DRF).
+intro_paragraph: ''
 tag:
 - api
 - rest

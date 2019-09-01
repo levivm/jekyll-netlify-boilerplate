@@ -2,6 +2,7 @@
 layout: post
 title: Django App Internationalization
 author: john_doe
+intro_paragraph: ''
 date: 2016-09-30T04:38:13.000Z
 ---
 
