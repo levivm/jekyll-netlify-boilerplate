@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site if applicable, e.g. /blog
 url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Permalink format (/blog/ is ignored for pages)
-permalink: /blog/:title
+permalink: /:title
 
 # Enable section IDs in frontmatter, useful for identifying current page
 # (used as a hook for styling etc)
