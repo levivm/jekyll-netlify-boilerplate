@@ -4,17 +4,9 @@ title: 'Hi, I''m Levi'
 permalink: /
 section: home
 intro_paragraph: >-
-  [![alt text][1.1]][1][![alt text][1.2]][2]<br/>
-
-
-  [1.1]: http://i.imgur.com/tXSoThF.png
-
-  [1]: http://www.twitter.com/carlsednaoui
-
-  [1.2]: /assets/img/uploads/stackoverflow-logo.png
-
-  [2]: http://www.twitter.com/carlsednaoui
-
+  [![alt
+  text](http://i.imgur.com/tXSoThF.png)](http://www.twitter.com/carlsednaoui)[![alt
+  text](/assets/img/uploads/stackoverflow-logo.png)](http://www.twitter.com/carlsednaoui)<br/>
 
 
   Computer Engineer, Fintech Enthusiast, Engineering Director at 
@@ -24,4 +16,4 @@ intro_paragraph: >-
   [@ThePracticalDev](https://twitter.com/ThePracticalDev), Mentor
   at[@codingcoach_io](https://twitter.com/codingcoach_io)
 ---
-
+If you like my content or it was helpful, you can motivate me to write more content by \[buying me a cofee](https://www.buymeacoffee.com/R3i9IQJ)
