@@ -16,4 +16,4 @@ intro_paragraph: >-
   [@ThePracticalDev](https://twitter.com/ThePracticalDev), Mentor
   at[@codingcoach_io](https://twitter.com/codingcoach_io)
 ---
-If you like my content or it was helpful, you can motivate me to write more content by \[buying me a cofee] (https://www.buymeacoffee.com/R3i9IQJ)
+If you like my content or it was helpful, you can motivate me to write more content by [buying me a coffee](https://www.buymeacoffee.com/R3i9IQJ)
