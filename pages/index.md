@@ -14,6 +14,6 @@ intro_paragraph: >-
   [@MoTecnologias](https://motecnologias.com/).Co-Founder of
   [FullStapps](https://fullstapps.dev),Community Moderator at
   [@ThePracticalDev](https://twitter.com/ThePracticalDev), Mentor
-  at[@codingcoach_io](https://twitter.com/codingcoach_io)
+  at[@codingcoach_io](https://twitter.com/codingcoach_io). Visit my youtube channel [FullStapps](https://www.youtube.com/channel/UCQZ9xuu8aA7HdsvJXrAPrlg)
 ---
 Want to contribute? consider to [buy me a coffee](https://www.buymeacoffee.com/R3i9IQJ)
